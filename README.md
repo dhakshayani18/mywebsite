@@ -1,2 +1,10 @@
-# mywebsite
-my second website
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+</head>
+<body>
+<h1>Welcome to My GitHub Page</h1>
+<p>This website is hosted using GitHub Pages.</p>
+</body>
+</html>
